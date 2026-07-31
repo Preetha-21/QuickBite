@@ -16,7 +16,7 @@ A full-stack Food Delivery web application that allows users to browse food item
 - Upload food images
 - Manage food menu
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 ### Frontend
 - React.js
