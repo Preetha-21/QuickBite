@@ -37,7 +37,7 @@ A full-stack Food Delivery web application that allows users to browse food item
 food-delivery/
 │── frontend/
 │── backend/
-│── admin
+│── admin/
 ```
 
 ## ⚙️ Installation
