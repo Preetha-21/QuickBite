@@ -46,7 +46,7 @@ food-delivery/
 
 ```bash
 git clone https://github.com/your-username/food-delivery.git
-cd food-deliv
+cd food-delivery
 ```
 
 ### Install dependencies
