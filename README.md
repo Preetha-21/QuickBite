@@ -16,7 +16,7 @@ A full-stack Food Delivery web application that allows users to browse food item
 - Upload food images
 - Manage food menu
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 ### Frontend
 - React.js
@@ -46,7 +46,7 @@ food-delivery/
 
 ```bash
 git clone https://github.com/your-username/food-delivery.git
-cd food-delivery
+cd food-deliv
 ```
 
 ### Install dependencies
