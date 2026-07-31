@@ -1,6 +1,6 @@
 # 🍔 Food Delivery Website
 
-A full-stack Food Delivery web application that allows users to browse food items, add them to the cart, place orders, and enables administrators to manage food items through an admin panel.
+A full-stack Food Delivery web application that allows users to browse food items, add them to the cart, place orders, and enables administrators to manage food items through an admin panel
 
 ## 🚀 Features
 
