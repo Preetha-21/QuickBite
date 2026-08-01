@@ -29,7 +29,6 @@ A full-stack Food Delivery web application that allows users to browse food item
 - Express.js
 - MongoDB
 - Mongoose
-- Multer
 
 ## 📂 Project Structure
 
